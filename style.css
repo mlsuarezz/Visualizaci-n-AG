@@ -1,0 +1,12 @@
+h1, h2 {
+  font-family: Lato; color: darkblue;font-style: italic;
+  
+}
+body{
+  background-color: beige;
+   border: blue;
+    margin: 2cm;
+}
+title{
+ font-style:initial;
+}
